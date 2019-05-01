@@ -111,11 +111,11 @@ a{color: #fff;}
                 (adsbygoogle = window.adsbygoogle || []).push({});
                 </script>
                 </div>
- <!-- フッタ -->
+            </div>
+<!-- フッタ -->
  <footer>
  <span class="white">Copyright 2019/05/01 Pe-Young(S.Hada)</span>
  </footer>
-            </div>
         </div>
     </div><!-- content03 -->
 </section>
