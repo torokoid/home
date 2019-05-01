@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script src="/osd.js"></script>
-    <script src="/ca-pub-7408088410773034.js"></script>
-    <script type="text/javascript" async="" src="/analytics.js"></script>
-    <script async="" src="/js"></script>
+    <script src="ca-pub-7408088410773034.js"></script>
+    <script type="text/javascript" async="" src="analytics.js"></script>
+    <script async="" src="js"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -17,7 +17,7 @@
 
   gtag('config', 'UA-10603270-10');
 </script>
-<script src="/jquery.min.js"></script>
+<script src="jquery.min.js"></script>
 <style>
 /* init */
 .background {
@@ -66,10 +66,10 @@
 }
 a{color: #fff;}
 </style>
-<link rel="preload" href="/f.txt" as="script">
-    <script type="text/javascript" src="/f.txt"></script>
-    <link rel="preload" href="/f(1).txt" as="script">
-    <script type="text/javascript" src="/f(1).txt"></script>
+<link rel="preload" href="f.txt" as="script">
+    <script type="text/javascript" src="f.txt"></script>
+    <link rel="preload" href="f(1).txt" as="script">
+    <script type="text/javascript" src="f(1).txt"></script>
     <link rel="preload" href="https://pagead2.googlesyndication.com/pagead/js/r20190424/r20190131/show_ads_impl.js" as="script">
     </head>
 <body>
@@ -137,4 +137,9 @@ $(function(){
 
 
 
-<ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;"><ins id="aswift_0_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><ins id="aswift_0_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><iframe frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;border:0px;width:0px;height:0px;" src="./Scroll_files/saved_resource(1).html"></iframe></ins></ins></ins><iframe id="google_osd_static_frame_1872476073822" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;" src="./Scroll_files/saved_resource(2).html"></iframe></body><iframe id="google_shimpl" style="display: none;" src="./Scroll_files/saved_resource(3).html"></iframe><iframe id="google_esf" name="google_esf" src="./Scroll_files/zrt_lookup.html" data-ad-client="ca-pub-7408088410773034" style="display: none;"></iframe></html>
+<ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;"><ins id="aswift_0_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><ins id="aswift_0_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><iframe frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;border:0px;width:0px;height:0px;" src="./Scroll_files/saved_resource(1).html"></iframe></ins></ins></ins><iframe id="google_osd_static_frame_1872476073822" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;" src="./Scroll_files/saved_resource(2).html"></iframe></body><iframe id="google_shimpl" style="display: none;" src="./Scroll_files/saved_resource(3).html"></iframe><iframe id="google_esf" name="google_esf" src="./Scroll_files/zrt_lookup.html" data-ad-client="ca-pub-7408088410773034" style="display: none;"></iframe>
+
+<!-- フッタ -->
+ <footer>
+ <span class="white">Copyright 2019/05/01 Pe-Young(S.Hada)</span>
+ </footer>
