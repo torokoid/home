@@ -44,9 +44,9 @@
 #content01_bg {background-image: url(https://torokoid.github.io/oizumi/sample.jpg);}
 #content02_bg {background-image: url(https://torokoid.github.io/hannari/20190417_010.jpg);}
 #content03_bg {background-image: url(https://torokoid.github.io/hannari/20100826_001.jpg);}
-#content01 .wrap { background-color: rgba(255,0,0,0);}
-#content02 .wrap { background-color: rgba(0,255,0,0);}
-#content03 .wrap { background-color: rgba(0,0,255,0);}
+#content01 .wrap { background-color: rgba(255,0,0,0.2);}
+#content02 .wrap { background-color: rgba(0,255,0,0.2);}
+#content03 .wrap { background-color: rgba(0,0,255,0.2);}
 .text-box {
     padding: 50px 25px;
     max-width: 640px;
@@ -111,11 +111,11 @@ a{color: #fff;}
                 (adsbygoogle = window.adsbygoogle || []).push({});
                 </script>
                 </div>
-            </div>
 <!-- フッタ -->
  <footer>
  <span class="white">Copyright 2019/05/01 Pe-Young(S.Hada)</span>
  </footer>
+            </div>
         </div>
     </div><!-- content03 -->
 </section>
