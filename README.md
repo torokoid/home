@@ -113,11 +113,11 @@ a{color: #fff;}
                 </div>
             </div>
         </div>
-    </div><!-- content03 -->
 <!-- フッタ -->
  <footer>
  <span class="white">Copyright 2019/05/01 Pe-Young(S.Hada)</span>
  </footer>
+    </div><!-- content03 -->
 </section>
 
 <script>
