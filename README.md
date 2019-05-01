@@ -6,7 +6,7 @@
 <title>Scroll Background Fadein | naoyu.net</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script src="./Scroll_files/osd.js"></script>
+<script src="/osd.js"></script>
     <script src="/ca-pub-7408088410773034.js"></script>
     <script type="text/javascript" async="" src="/analytics.js"></script>
     <script async="" src="/js"></script>
