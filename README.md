@@ -94,7 +94,9 @@ screen and (orientation: landscape) {
     <link rel="preload" href="https://pagead2.googlesyndication.com/pagead/js/r20190424/r20190131/show_ads_impl.js" as="script">
     </head>
 <body>
-
+<p class="note">
+  モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
+</p>
 <section id="contents">
     <div id="content01" class="contents show">
         <div id="content01_bg" class="background"></div>
