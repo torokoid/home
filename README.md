@@ -40,6 +40,21 @@
     position: relative;
     z-index: 2;
 }
+  p {
+color: #fffafa;
+font-size: 1.5em;
+ }
+<!--
+ .red {color:#ff0000;}
+ .grey {color:#999999;}
+ .snow {color:#fffafa;}
+ .yellow {color:#ff0000; background:#ffff00;}
+ .blue {color:#0000ff;}
+ .white {color:#ffffff; blinking;}
+ .waku {border:2px dotted #99cc66;
+　　　　　　line-height: 200%;
+　　　　　　padding: 10px;}
+ -->
 /* design*/
 #content01_bg {background-image: url(https://torokoid.github.io/oizumi/sample.jpg);}
 #content02_bg {background-image: url(https://torokoid.github.io/hannari/20190417_010.jpg);}
