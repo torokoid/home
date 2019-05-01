@@ -80,6 +80,12 @@ font-size: 1.5em;
     line-height: 2;
 }
 a{color: #fff;}
+   
+@media	screen and (min-width: 540px),
+screen and (orientation: landscape) {
+   p.note { display: none; }
+}
+    
 </style>
 <link rel="preload" href="f.txt" as="script">
     <script type="text/javascript" src="f.txt"></script>
