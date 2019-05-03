@@ -125,8 +125,8 @@ a{color: #fff;}
         <div class="wrap">
             <div class="text-box">
                 <p class="catch">会場事前視察シリーズ</p>
-                <a href="https://torokoid.github.io/alteatoro">一時会アルテアトロ、リンク</a><br>
-                <a href="https://torokoid.github.io/jizou">二時会地蔵、リンク</a>
+                <a href="https://torokoid.github.io/alteatoro">一時会「アルテアトロ」、リンク</a><br>
+                <a href="https://torokoid.github.io/jizou">二時会「大馬鹿地蔵」、リンク</a>
             </div>
         </div> 
     </div><!-- content04 -->
