@@ -59,9 +59,11 @@ font-size: 1.5em;
 #content01_bg {background-image: url(https://torokoid.github.io/oizumi/sample.jpg);}
 #content02_bg {background-image: url(https://torokoid.github.io/hannari/20190417_010.jpg);}
 #content03_bg {background-image: url(https://torokoid.github.io/hannari/20100826_001.jpg);}
+#content04_bg {background-image: url(/alteatoro/20190420_004.jpg);}
 #content01 .wrap { background-color: rgba(255,0,0,0.2);}
 #content02 .wrap { background-color: rgba(0,255,0,0.2);}
 #content03 .wrap { background-color: rgba(0,0,255,0.2);}
+#content04 .wrap { background-color: rgba(255,0,0,0.2);}
 .text-box {
     padding: 50px 25px;
     max-width: 640px;
@@ -115,7 +117,16 @@ a{color: #fff;}
             <div class="text-box">
                 <p class="catch">2010年　同期会</p>
                 <a href="https://torokoid.github.io/oizumi2010">2010年同期会のHPリンク</a>
-                <!--
+<div id="content04" class="contents">
+        <div id="content04_bg" class="background"></div>
+        <div class="wrap">
+            <div class="text-box">
+                <p class="catch">会場事前視察シリーズ</p>
+                <a href="https://torokoid.github.io/alteator">はんなりの会のHPリンク</a>
+            </div>
+        </div>
+    </div><!-- content02 -->
+<!--
                 <div class="ad" style="text-align: center;">
                 <script async="" src="./Scroll_files/f(2).txt"></script>
                 -->
