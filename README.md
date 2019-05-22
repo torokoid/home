@@ -135,7 +135,7 @@ a{color: #fff;}
         </div> 
     </div><!-- content04 -->
 <div id="content05" class="contents">
-        <div id="content04_bg" class="background"></div>
+        <div id="content05_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
                 <p class="catch">会場事前視察シリーズ</p>
