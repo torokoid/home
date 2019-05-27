@@ -60,12 +60,15 @@ font-size: 1.5em;
 #content02_bg {background-image: url(https://torokoid.github.io/hannari/20190417_010.jpg);}
 #content03_bg {background-image: url(https://torokoid.github.io/hannari/20100826_001.jpg);}
 #content04_bg {background-image: url(https://torokoid.github.io/mascot/20190521_009.JPG);}
-#content05_bg {background-image: url(/alteatoro/20190420_005.jpg);}
+#content05_bg {background-image: url(https://torokoid.github.io/ensoku/20190527_001.JPG);}   
+#content06_bg {background-image: url(/alteatoro/20190420_005.jpg);}
+
 #content01 .wrap { background-color: rgba(255,0,0,0.2);}
 #content02 .wrap { background-color: rgba(0,255,0,0.2);}
 #content03 .wrap { background-color: rgba(0,0,255,0.2);}
 #content04 .wrap { background-color: rgba(255,0,0,0.2);}
 #content05 .wrap { background-color: rgba(0,255,0,0.2);}
+#content06 .wrap { background-color: rgba(255,0,0,0.2);}
 .text-box {
     padding: 50px 25px;
     max-width: 640px;
@@ -138,12 +141,21 @@ a{color: #fff;}
         <div id="content05_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
+                <p class="catch">船津さん提供、遠足の写真</p>
+                <a href="https://torokoid.github.io/ensoku">遠足の写真」、リンク</a>
+            </div>
+        </div> 
+    </div><!-- content05 -->
+<div id="content06" class="contents">
+        <div id="content05_bg" class="background"></div>
+        <div class="wrap">
+            <div class="text-box">
                 <p class="catch">会場事前視察シリーズ</p>
                 <a href="https://torokoid.github.io/alteatoro">一時会「アルテアトロ」、リンク</a><br>
                 <a href="https://torokoid.github.io/jizou">二次会「大馬鹿地蔵」、リンク</a>
             </div>
         </div> 
-    </div><!-- content05 -->
+    </div><!-- content06 -->
 <!--
                 <div class="ad" style="text-align: center;">
                 <script async="" src="./Scroll_files/f(2).txt"></script>
