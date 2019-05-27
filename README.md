@@ -142,7 +142,7 @@ a{color: #fff;}
         <div class="wrap">
             <div class="text-box">
                 <p class="catch">船津さん提供、遠足の写真</p>
-                <a href="https://torokoid.github.io/ensoku">遠足の写真」、リンク</a>
+                <a href="https://torokoid.github.io/ensoku">遠足の写真、リンク</a>
             </div>
         </div> 
     </div><!-- content05 -->
