@@ -81,6 +81,9 @@ font-size: 1.5em;
 #content04 .text-box {
     margin-left: auto;
 }
+#content06 .text-box {
+    margin-left: auto;
+}
 .text-box .catch {
     margin: 0 0 10px;
     font-size: 40px;
