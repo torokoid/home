@@ -58,7 +58,7 @@ font-size: 1.5em;
 /* design*/
 #content01_bg {background-image: url(https://torokoid.github.io/oizumi/sample.jpg);}
 #content02_bg {background-image: url(https://torokoid.github.io/hannari/20190417_010.jpg);}
-#content03_bg {background-image: url(https://torokoid.github.io/hannari/20100826_001.jpg);}
+#content03_bg {background-image: url(https://torokoid.github.io/oizumi2010/20100828_031.JPG);}
 #content04_bg {background-image: url(https://torokoid.github.io/mascot/20190521_009.JPG);}
 #content05_bg {background-image: url(https://torokoid.github.io/ensoku/20190527_001.JPG);}   
 #content06_bg {background-image: url(/alteatoro/20190420_005.jpg);}
