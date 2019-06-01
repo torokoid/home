@@ -104,7 +104,7 @@ a{color: #fff;}
     <link rel="preload" href="https://pagead2.googlesyndication.com/pagead/js/r20190424/r20190131/show_ads_impl.js" as="script">
     </head>
 <body>
-
+<img src="QR_oizumi_home.PNG" alt="サンプル画像" width="1800" />
 <section id="contents">
     <div id="content01" class="contents show">
         <div id="content01_bg" class="background"></div>
