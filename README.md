@@ -109,7 +109,7 @@ a{color: #fff;}
         <div id="content01_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">2019年　同期会<img src="QR_oizumi_home.png" alt="アクセス用QRコード" width="100"></p>
+                <p class="catch">2019年　同期会&ensp;&ensp;<img src="QR_oizumi_home.png" alt="アクセス用QRコード" width="100"></p>
                 <a href="https://torokoid.github.io/oizumi">2019年同期会のHPリンク</a>
             </div>
         </div>
