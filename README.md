@@ -104,12 +104,12 @@ a{color: #fff;}
     <link rel="preload" href="https://pagead2.googlesyndication.com/pagead/js/r20190424/r20190131/show_ads_impl.js" as="script">
     </head>
 <body>
-<p align="left"> <img src="QR_oizumi_home.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <section id="contents">
     <div id="content01" class="contents show">
         <div id="content01_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
+                <p align="left"> <img src="QR_oizumi_home.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
                 <p class="catch">2019年　同期会</p>
                 <a href="https://torokoid.github.io/oizumi">2019年同期会のHPリンク</a>
             </div>
