@@ -109,7 +109,7 @@ a{color: #fff;}
         <div id="content01_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">2019年　同期会&ensp;&ensp;&ensp;&ensp;<img src="QR_oizumi_home.png" alt="アクセス用QRコード" width="50"></p>
+                <p class="catch">2019年同期会&ensp;&ensp;&ensp;&ensp;<img src="QR_oizumi_home.png" alt="アクセス用QRコード" width="50"></p>
                 <a href="https://torokoid.github.io/oizumi">2019年同期会のHPリンク</a>
             </div>
         </div>
@@ -127,7 +127,7 @@ a{color: #fff;}
         <div id="content03_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">2010年　同期会</p>
+                <p class="catch">2010年同期会</p>
                 <a href="https://torokoid.github.io/oizumi2010">2010年同期会のHPリンク</a>
              </div>
         </div>
@@ -136,7 +136,7 @@ a{color: #fff;}
         <div id="content04_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">2010年　いずみ会</p>
+                <p class="catch">2010年いずみ会</p>
                 <a href="https://torokoid.github.io/izumikai">2010年いずみ会のHPリンク</a>
              </div>
         </div>
