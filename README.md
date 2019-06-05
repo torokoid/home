@@ -145,7 +145,7 @@ a{color: #fff;}
         <div id="content05_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">船津さん提供、体育祭マスコット</p>
+                <p class="catch">船津さん、片桐さん提供、体育祭マスコット</p>
                 <a href="https://torokoid.github.io/mascot">体育祭マスコット写真、リンク</a>
             </div>
         </div> 
