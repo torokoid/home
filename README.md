@@ -62,7 +62,7 @@ font-size: 1.5em;
 #content04_bg {background-image: url(https://torokoid.github.io/izumikai/20101024_020.JPG);}
 #content05_bg {background-image: url(https://torokoid.github.io/mascot/20190521_009.JPG);}
 #content06_bg {background-image: url(https://torokoid.github.io/ensoku/20190527_001.JPG);}   
-#content07_bg {background-image: url(/alteatoro/20190420_005.jpg);}
+#content07_bg {background-image: url(https://torokoid.github.io/shiba/20190603_001.JPG);}
 
 #content01 .wrap { background-color: rgba(255,0,0,0.2);}
 #content02 .wrap { background-color: rgba(0,255,0,0.2);}
@@ -164,8 +164,7 @@ a{color: #fff;}
         <div class="wrap">
             <div class="text-box">
                 <p class="catch">会場事前視察シリーズ</p>
-                <a href="https://torokoid.github.io/alteatoro">一時会「アルテアトロ」、リンク</a><br>
-                <a href="https://torokoid.github.io/jizou">二次会「大馬鹿地蔵」、リンク</a>
+                <a href="https://torokoid.github.io/yoshi">あの頃。そしてカミングアウト、リンク</a>
             </div>
         </div> 
     </div><!-- content07 -->
