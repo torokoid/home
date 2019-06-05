@@ -163,7 +163,7 @@ a{color: #fff;}
         <div id="content07_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">会場事前視察シリーズ</p>
+                <p class="catch">吉田紀子さんからのメール</p>
                 <a href="https://torokoid.github.io/yoshi">あの頃。そしてカミングアウト、リンク</a>
             </div>
         </div> 
