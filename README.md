@@ -175,7 +175,7 @@ a{color: #fff;}
         <div id="content08_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">１組田中さん他提供、大泉高校卒業アルバム</p>
+                <p class="catch">１組田中さん、他提供、<br>大泉高校卒業アルバム</p>
                 <a href="https://torokoid.github.io/1978">卒業アルバム、リンク</a>
             </div>
         </div> 
