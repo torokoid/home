@@ -148,7 +148,7 @@ a{color: #fff;}
         <div id="content05_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">船津さん、片桐さん提供、体育祭マスコット</p>
+                <p class="catch">船津さん、片桐さん提供、<br>  体育祭マスコット</p>
                 <a href="https://torokoid.github.io/mascot">体育祭マスコット写真、リンク</a>
             </div>
         </div> 
@@ -175,7 +175,7 @@ a{color: #fff;}
         <div id="content08_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">１組田中さん、他提供、<br>大泉高校卒業アルバム</p>
+                <p class="catch">１組田中さん、他提供、<br>  大泉高校卒業アルバム</p>
                 <a href="https://torokoid.github.io/1978">卒業アルバム、リンク</a>
             </div>
         </div> 
