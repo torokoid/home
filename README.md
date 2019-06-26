@@ -62,8 +62,7 @@ font-size: 1.5em;
 #content04_bg {background-image: url(https://torokoid.github.io/izumikai/20101024_020.JPG);}
 #content05_bg {background-image: url(https://torokoid.github.io/mascot/20190521_009.JPG);}
 #content06_bg {background-image: url(https://torokoid.github.io/ensoku/20190527_001.JPG);}   
-#content07_bg {background-image: url(https://torokoid.github.io/mascot/20190521_029.JPG);}
-#content08_bg {background-image: url(https://torokoid.github.io/1978/20190607_039.JPG);}
+#content07_bg {background-image: url(https://torokoid.github.io/1978/20190607_039.JPG);}
 
 #content01 .wrap { background-color: rgba(255,0,0,0.2);}
 #content02 .wrap { background-color: rgba(0,255,0,0.2);}
@@ -72,7 +71,6 @@ font-size: 1.5em;
 #content05 .wrap { background-color: rgba(0,255,0,0.2);}
 #content06 .wrap { background-color: rgba(0,0,255,0.2);}
 #content07 .wrap { background-color: rgba(255,0,0,0.2);}
-#content08 .wrap { background-color: rgba(0,255,0,0.2);}
 
 .text-box {
     padding: 50px 25px;
@@ -164,15 +162,6 @@ a{color: #fff;}
     </div><!-- content06 -->
 <div id="content07" class="contents">
         <div id="content07_bg" class="background"></div>
-        <div class="wrap">
-            <div class="text-box">
-                <p class="catch">吉田紀子さんからのメール</p>
-                <a href="https://torokoid.github.io/yoshi">あの頃。そしてカミングアウト、リンク</a>
-            </div>
-        </div> 
-    </div><!-- content07 -->
-<div id="content08" class="contents">
-        <div id="content08_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
                 <p class="catch">１組田中さん、他提供、<br>  大泉高校卒業アルバム</p>
