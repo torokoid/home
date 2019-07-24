@@ -155,7 +155,7 @@ a{color: #fff;}
         <div id="content06_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">船津さん提供、遠足の写真</p>
+                <p class="catch">船津さん提供、遠足の写真、宮下さん提供、スキーの写真</p>
                 <a href="https://torokoid.github.io/ensoku">遠足の写真、リンク</a>
             </div>
         </div> 
