@@ -112,7 +112,7 @@ a{color: #fff;}
         <div id="content01_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">20211224有志クリスマス会</p>
+                <p class="catch">2021年、有志クリスマス会</p>
                 <a href="https://torokoid.github.io/2021Xmas">2021年12月24日、有志クリスマス会リンク</a>
             </div>
         </div>
