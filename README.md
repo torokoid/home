@@ -56,14 +56,15 @@ font-size: 1.5em;
 　　　　　　padding: 10px;}
  -->
 /* design*/
-#content01_bg {background-image: url(https://torokoid.github.io/2021Xmas/20211224_011.jpg);}
-#content02_bg {background-image: url(https://torokoid.github.io/oizumi/sample.jpg);}
-#content03_bg {background-image: url(https://torokoid.github.io/hannari/20190417_010.jpg);}
-#content04_bg {background-image: url(https://torokoid.github.io/oizumi2010/20100828_031.JPG);}
-#content05_bg {background-image: url(https://torokoid.github.io/izumikai/20101024_020.JPG);}
-#content06_bg {background-image: url(https://torokoid.github.io/mascot/20190521_009.JPG);}
-#content07_bg {background-image: url(https://torokoid.github.io/ensoku/20190527_001.JPG);}   
-#content08_bg {background-image: url(https://torokoid.github.io/1978/20190607_039.JPG);}
+#content01_bg {background-image: url(https://torokoid.github.io/mizukoshi/20220506_012.JPG);}
+#content02_bg {background-image: url(https://torokoid.github.io/2021Xmas/20211224_011.jpg);}
+#content03_bg {background-image: url(https://torokoid.github.io/oizumi/sample.jpg);}
+#content04_bg {background-image: url(https://torokoid.github.io/hannari/20190417_010.jpg);}
+#content05_bg {background-image: url(https://torokoid.github.io/oizumi2010/20100828_031.JPG);}
+#content06_bg {background-image: url(https://torokoid.github.io/izumikai/20101024_020.JPG);}
+#content07_bg {background-image: url(https://torokoid.github.io/mascot/20190521_009.JPG);}
+#content08_bg {background-image: url(https://torokoid.github.io/ensoku/20190527_001.JPG);}   
+#content09_bg {background-image: url(https://torokoid.github.io/1978/20190607_039.JPG);}
 
 #content01 .wrap { background-color: rgba(255,0,0,0.2);}
 #content02 .wrap { background-color: rgba(0,255,0,0.2);}
@@ -73,6 +74,7 @@ font-size: 1.5em;
 #content06 .wrap { background-color: rgba(0,0,255,0.2);}
 #content07 .wrap { background-color: rgba(255,0,0,0.2);}
 #content08 .wrap { background-color: rgba(0,255,0,0.2);}
+#content09 .wrap { background-color: rgba(0,0,255,0.2);}
     
 .text-box {
     padding: 50px 25px;
@@ -112,26 +114,27 @@ a{color: #fff;}
         <div id="content01_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">2021年、有志クリスマス会</p>
-                <a href="https://torokoid.github.io/2021Xmas">2021年12月24日、有志クリスマス会リンク</a>
+                <p class="catch">2022年、水越君をおくる</p>
+                <a href="https://torokoid.github.io/mizukoshi">2022年5月6日、水越君をおくる、リンク</a>
             </div>
         </div>
-    </div><!-- content01 -->    
+    </div><!-- content01 -->  
+<section id="contents">
     <div id="content02" class="contents show">
         <div id="content02_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">2019年同期会&ensp;&ensp;&ensp;&ensp;<img src="QR_oizumi_home.png" alt="アクセス用QRコード" width="50"></p>
-                <a href="https://torokoid.github.io/oizumi">2019年同期会のHPリンク</a>
+                <p class="catch">2021年、有志クリスマス会</p>
+                <a href="https://torokoid.github.io/2021Xmas">2021年12月24日、有志クリスマス会リンク</a>
             </div>
         </div>
-    </div><!-- content02 -->
-    <div id="content03" class="contents">
+    </div><!-- content02 -->    
+    <div id="content03" class="contents show">
         <div id="content03_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">はんなりの会</p>
-                <a href="https://torokoid.github.io/hannari">はんなりの会のHPリンク</a>
+                <p class="catch">2019年同期会&ensp;&ensp;&ensp;&ensp;<img src="QR_oizumi_home.png" alt="アクセス用QRコード" width="50"></p>
+                <a href="https://torokoid.github.io/oizumi">2019年同期会のHPリンク</a>
             </div>
         </div>
     </div><!-- content03 -->
@@ -139,17 +142,17 @@ a{color: #fff;}
         <div id="content04_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">2010年同期会</p>
-                <a href="https://torokoid.github.io/oizumi2010">2010年同期会のHPリンク</a>
-             </div>
+                <p class="catch">はんなりの会</p>
+                <a href="https://torokoid.github.io/hannari">はんなりの会のHPリンク</a>
+            </div>
         </div>
     </div><!-- content04 -->
-<div id="content05" class="contents">
+    <div id="content05" class="contents">
         <div id="content05_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">2010年いずみ会</p>
-                <a href="https://torokoid.github.io/izumikai">2010年いずみ会のHPリンク</a>
+                <p class="catch">2010年同期会</p>
+                <a href="https://torokoid.github.io/oizumi2010">2010年同期会のHPリンク</a>
              </div>
         </div>
     </div><!-- content05 -->
@@ -157,17 +160,17 @@ a{color: #fff;}
         <div id="content06_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">船津さん、片桐さん提供、<br>  体育祭マスコット</p>
-                <a href="https://torokoid.github.io/mascot">体育祭マスコット写真、リンク</a>
-            </div>
-        </div> 
+                <p class="catch">2010年いずみ会</p>
+                <a href="https://torokoid.github.io/izumikai">2010年いずみ会のHPリンク</a>
+             </div>
+        </div>
     </div><!-- content06 -->
 <div id="content07" class="contents">
         <div id="content07_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
-                <p class="catch">船津さん提供、遠足の写真<br>宮下さん、東さん提供、<br>スキーの写真</p>
-                <a href="https://torokoid.github.io/ensoku">遠足の写真、リンク</a>
+                <p class="catch">船津さん、片桐さん提供、<br>  体育祭マスコット</p>
+                <a href="https://torokoid.github.io/mascot">体育祭マスコット写真、リンク</a>
             </div>
         </div> 
     </div><!-- content07 -->
@@ -175,11 +178,20 @@ a{color: #fff;}
         <div id="content08_bg" class="background"></div>
         <div class="wrap">
             <div class="text-box">
+                <p class="catch">船津さん提供、遠足の写真<br>宮下さん、東さん提供、<br>スキーの写真</p>
+                <a href="https://torokoid.github.io/ensoku">遠足の写真、リンク</a>
+            </div>
+        </div> 
+    </div><!-- content08 -->
+<div id="content09" class="contents">
+        <div id="content09_bg" class="background"></div>
+        <div class="wrap">
+            <div class="text-box">
                 <p class="catch">１組田中さん、他提供、<br>  大泉高校卒業アルバム</p>
                 <a href="https://torokoid.github.io/1978">卒業アルバム、リンク</a>
             </div>
         </div> 
-    </div><!-- content08 -->
+    </div><!-- content09 -->
 
 <!--
                 <div class="ad" style="text-align: center;">
